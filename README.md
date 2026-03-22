@@ -9,6 +9,10 @@ A classic Snake game built with vanilla HTML, CSS, and JavaScript. No dependenci
 - Eat the red food to grow and score points
 - Don't hit the walls or yourself
 
+## Play Online
+
+[https://dbikard.github.io/Arthur/](https://dbikard.github.io/Arthur/)
+
 ## Deploy on GitHub Pages
 
 1. Go to your repository **Settings** > **Pages**
